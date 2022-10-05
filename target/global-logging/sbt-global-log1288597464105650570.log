@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(doc, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / doc[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /Users/andres/2022-2_ti1-e9/target/scala-2.13/api...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/andres/2022-2_ti1-e9/src/main/scala/Main.scala:40:5: discarding unmoored doc comment[0m
+[0m[[0m[33mwarn[0m] [0m[0m    /**[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/andres/2022-2_ti1-e9/src/main/scala/Main.scala:74:5: discarding unmoored doc comment[0m
+[0m[[0m[33mwarn[0m] [0m[0m    /**[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/andres/2022-2_ti1-e9/src/main/scala/Main.scala:126:5: discarding unmoored doc comment[0m
+[0m[[0m[33mwarn[0m] [0m[0m    /**[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/andres/2022-2_ti1-e9/src/main/scala/Main.scala:180:5: discarding unmoored doc comment[0m
+[0m[[0m[33mwarn[0m] [0m[0m    /**[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/andres/2022-2_ti1-e9/src/main/scala/Main.scala:192:5: discarding unmoored doc comment[0m
+[0m[[0m[33mwarn[0m] [0m[0m    /**[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/andres/2022-2_ti1-e9/src/main/scala/Main.scala:204:5: discarding unmoored doc comment[0m
+[0m[[0m[33mwarn[0m] [0m[0m    /**[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/andres/2022-2_ti1-e9/src/main/scala/Main.scala:220:5: discarding unmoored doc comment[0m
+[0m[[0m[33mwarn[0m] [0m[0m    /**[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/andres/2022-2_ti1-e9/src/main/scala/Main.scala:242:5: discarding unmoored doc comment[0m
+[0m[[0m[33mwarn[0m] [0m[0m    /**[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m2 deprecations; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m9 warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed 2/10/2022 12:28:03 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
